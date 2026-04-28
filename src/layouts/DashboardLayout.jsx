@@ -16,7 +16,7 @@ export default function DashboardLayout({ children }) {
       
       {/* SIDEBAR */}
       <div style={styles.sidebar}>
-        <h2>🏠 UniCrib</h2>
+        <h2>🏠 UniCrib1</h2>
 
         <div style={styles.menu}>
           {role === 1 && (
