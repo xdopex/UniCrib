@@ -79,7 +79,7 @@ const styles = {
   menuButton: {
     width: "100%",
     padding: "10px 12px",
-    border: "none",
+    border: "2px solid green",
     borderRadius: "8px",
     background: "white",
     color: "#111827",
